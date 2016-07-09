@@ -13,6 +13,10 @@ resp.posts.full_name
 #=> "Hello/World"
 ```
 
+## Note
+
+This library is unofficial...
+
 ## Installation
 
 Add this line to your application's Gemfile:
